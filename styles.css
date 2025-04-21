@@ -6,7 +6,7 @@ body {
 .hero {
   background-image: url('https://images.unsplash.com/photo-1573164713988-8665fc963095');
   background-size: cover;
-  background-position: center;
+  background-position-y: -100px;
   color: white;
   padding: 140px 0;
   text-align: center;
